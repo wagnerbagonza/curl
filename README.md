@@ -35,8 +35,5 @@ For Windows, the PHP binaries can be obtained from
 
 For other systems, see the [installation chapter](https://php.net/install).
 
-# viacep
-Exemplo de consulta na API do ViaCEP com PHP
-
 # curl
 Exemplo de request usando a lib CURL
